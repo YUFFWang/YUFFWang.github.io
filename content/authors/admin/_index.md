@@ -48,7 +48,6 @@ education:
       - Optimization : Dynamic Programming, Linear and Non-Linear Programming, Advanced Operations Research (Convex Optimization), Game Theory
       - Computer Science: C++, Python, Data Structure, Machine Learning, Deep Learning, Algorithm Design and Analysis, Discrete Mathematics
       - Operations Management: Operations Management
- 
 work:
   - position: Dynamic Spatial Matching with Delays
     company_name: manuscript in preparation
