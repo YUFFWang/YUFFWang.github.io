@@ -110,7 +110,7 @@ skills:
       - name: Music & Movies
         description: ''
         percent: 80
-        icon: music
+        icon: cat
       - name: Travel & Photography
         description: ''
         percent: 100
@@ -129,14 +129,14 @@ languages:
 awards:
   - title: China Undergraduate Mathematical Contest in Modeling
     url: 
-    date: '2023-11'
+    date: '2023-11-25'
     awarder: Shanghai Municipal Education Commission
     icon: 
     summary: |
       This competition's framework aims to optimize supermarket vegetable pricing, ordering, and assortment decisions. To address this, a multi-stage model is used, combining time series and correlation analysis with mixed-integer programming and MNL choice models. We begin by identifying product interdependencies, then simulate risk-cost benefits for ordering strategies using clustering and historical data, and finally integrate optimization techniques to maximize profitability through product selection.
   - title: Tsinghua "Jinjing Ledao" Economic Analysis Competition
     url: 
-    date: '2023-12'
+    date: '2023-12-23'
     awarder: School of Economics and Management, Tsinghua University
     icon: 
     summary: |
