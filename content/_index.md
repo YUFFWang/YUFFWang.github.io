@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Résumé
-        url: uploads/resume.pdf
+        url: https://drive.google.com/file/d/1zF4-4NRGq9SzyXEb-sBmdCfZXB3h3WHH/view?usp=drive_link
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
