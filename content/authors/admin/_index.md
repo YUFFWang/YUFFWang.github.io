@@ -57,8 +57,8 @@ work:
     date_start: 2024-07-11
     date_end: ''
     summary: |2-
-      - In this research, we focus on dynamic spatial matching problems where requests arrive stochastically, such as in car-pooling platforms. The key issue explored is the trade-off between delaying matching decisions to increase market thickness and the associated increase in user waiting times. We propose four matching policies—Greedy, Radius, Batching, and Partition—which offer constant competitive ratios in comparison to the optimal offline solution. Our work provides insights into designing efficient matching policies that balance user satisfaction with market efficiency.
-      - Responsible for the proofs of the lower bound on optimal cost and upper bounds on matching policies and competitive analysis. Conduct numerical experiments on synthetic and real datasets for the proposed algorithms.
+     - In this research, we focus on dynamic spatial matching problems where requests arrive stochastically, such as in car-pooling platforms. The key issue explored is the trade-off between delaying matching decisions to increase market thickness and the associated increase in user waiting times. We propose four matching policies—Greedy, Radius, Batching, and Partition—which offer constant competitive ratios in comparison to the optimal offline solution. Our work provides insights into designing efficient matching policies that balance user satisfaction with market efficiency.
+     - Responsible for the proofs of the lower bound on optimal cost and upper bounds on matching policies and competitive analysis. Conduct numerical experiments on synthetic and real datasets for the proposed algorithms.
   - position: ML4MOC: A Benchmark for Optimizer Configuration using Machine Learning
     company_name: working paper, [code](https://github.com/Lhongpei/ML4MOC)
     company_url: ''
