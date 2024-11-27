@@ -50,7 +50,7 @@ education:
       - Operations Management: Operations Management
  
 work:
-  - position: Dynamic Spatial Matching with Delays
+- position: Dynamic Spatial Matching with Delays
     company_name: manuscript in preparation
     company_url: ''
     company_logo: ''
