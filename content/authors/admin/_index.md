@@ -64,7 +64,7 @@ work:
     company_logo: ''
     date_start: 2024-01-11
     date_end: ''
-    summary: |2-
+    summary: |
       - This paper presents a benchmark specifically designed for evaluating machine learning-based approaches to automatic configuration of MIP optimizers. Addressing limitations of existing methods, we provide diverse datasets and a dynamic feature set to enhance model predictive power. This benchmark aims to promote research and improve MIP solver performance for real-world applications.
       - Responsible for the feature extraction procedure, including extraction and processing of static features from the original MILP problems and dynamic features from the COPT solving logs. Undertake part of the machine learning training tasks using Random Forest and Bayes optimization.      
   - position: Large Language Model Operations Internship
@@ -73,7 +73,7 @@ work:
     company_logo: ''
     date_start: 2024-09-11
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Prompt Engineering for RED Company's large language model, establishing a multi-round critique mechanism to address challenges in self-awareness, casual chat, and creative scenarios during online multi-round conversations. Enhanced the model's capabilities while managing daily maintenance tasks, including extracting and annotating dialogue data, identifying anomalies, and resolving issues.
       - Developed a tool platform with a user-friendly front-end interface, enabling automated data processing and online data management to streamline workflow and improve data processing efficiency.
